@@ -1,0 +1,6 @@
+GRIDSEARCH valide pour trouver les hyper params et choix penalisation?
+Besoin de graphes Ridge et Lasso?
+C tuning nécessaire avant penalisation?
+
+TO DO WITH OTHERS : 
+* Compare linear reg with marwan
