@@ -1,6 +1,25 @@
-GRIDSEARCH valide pour trouver les hyper params et choix penalisation?
+QUESTIONS :
+GridSearch valide pour trouver les hyper params et choix penalisation? - ou lassocv (methode plus specifiques?)
 Besoin de graphes Ridge et Lasso?
-C tuning nécessaire avant penalisation?
+C tuning nécessaire avant penalisation? On fait le tuning the hyperparams quand?
+Je laisse le standard scaling?
+variables et interactions ??
+
+quel critère choisir? - AUC pour Heart disease
+Le critère utilisé dépend du problème : erreur quadratique, taux de mauvais classement, AUC (aire sous la courbe ROC), indice de Pierce, *log loss function*...
+
+quel méthode utiliser pour le choix du modèle? 
+L'étape "choix" de la meilleure méthode peut être remplacée par une combinaisons de prévision comme c'est souvent le cas dans les soutions "gagnantes" mais lourdes du site [kaggle](https://www.kaggle.com/competitions).
+
+graphes coeffs ? selection de variables avec lasso ?
+
+X_test cannot be used until the end?
+
+QUESTIONS SVM : 
+Why do we normalize the data before using svm?
+
+INFO : 
+On ne prend pas en compte heart risk pour le cholesterol!!!
 
 TO DO WITH OTHERS : 
 * Compare linear reg with marwan
