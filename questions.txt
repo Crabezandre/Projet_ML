@@ -1,11 +1,11 @@
 QUESTIONS :
+
 GridSearch valide pour trouver les hyper params et choix penalisation? - ou lassocv (methode plus specifiques?)
 Besoin de graphes Ridge et Lasso?
 C tuning nécessaire avant penalisation? On fait le tuning the hyperparams quand?
 Je laisse le standard scaling?
 variables et interactions ??
 
-quel critère choisir? - AUC pour Heart disease
 Le critère utilisé dépend du problème : erreur quadratique, taux de mauvais classement, AUC (aire sous la courbe ROC), indice de Pierce, *log loss function*...
 
 quel méthode utiliser pour le choix du modèle? 
@@ -18,8 +18,47 @@ X_test cannot be used until the end?
 QUESTIONS SVM : 
 Why do we normalize the data before using svm?
 
+
 INFO : 
+
 On ne prend pas en compte heart risk pour le cholesterol!!!
+
+METRICS
+--> QUAL : accuracy, specificity, sensitivity, AUC, nb of variables complexity
+--> QUANT : MSE, RMSE, R2, nb var kept, MAE ()
+
 
 TO DO WITH OTHERS : 
 * Compare linear reg with marwan
+
+
+
+TO DO :
+
+1. MAIN CODE ()
+
+R : 
+- linear model : M              ----DONE
+- svm : N                       ----PROCESS
+- tree/forests : M              ----PROCESS
+- neural/networks : N/M         ----TO DO
+
+Python
+- linear model : I              ----DONE
+- svm : I                       ----PROCESS
+- tree/forests : A              ----PROCESS
+- neural/networks : I/A         ----TO DO
+
+2. Comparison (Reading other's part + identifying errors, things to add, make it coherent, check results)
+- linear model : IM             ----TO DO
+- svm : IN                      ----TO DO
+- tree/forests : AM             ----TO DO
+- neural/networks : I/A - M/N   ----TO DO
+
+3. Presentation
+- linear model : IM             ----TO DO
+- svm : IN                      ----TO DO
+- tree/forests : AM             ----TO DO
+- neural/networks : I/A - M/N   ----TO DO
+
+
