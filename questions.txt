@@ -1,10 +1,10 @@
 QUESTIONS :
 
-GridSearch valide pour trouver les hyper params et choix penalisation? - ou lassocv (methode plus specifiques?)
-Besoin de graphes Ridge et Lasso?
-C tuning nécessaire avant penalisation? On fait le tuning the hyperparams quand?
-Je laisse le standard scaling?
-variables et interactions ??
+GridSearch valide pour trouver les hyper params et choix penalisation? - ou lassocv (methode plus specifiques?) 
+Besoin de graphes Ridge et Lasso? oui
+C tuning nécessaire avant penalisation? On fait le tuning the hyperparams quand? penalisation
+Je laisse le standard scaling? oui
+variables et interactions ?? à faire
 
 Le critère utilisé dépend du problème : erreur quadratique, taux de mauvais classement, AUC (aire sous la courbe ROC), indice de Pierce, *log loss function*...
 
