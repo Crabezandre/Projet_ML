@@ -1,6 +1,7 @@
 .RData
 .Rhistory
+.Rprofile
+
 .ipynb_checkpoints/
 .virtual_documents/
-
 
