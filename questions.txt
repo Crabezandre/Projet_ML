@@ -62,3 +62,16 @@ Python
 - neural/networks : I/A - M/N   ----TO DO
 
 
+
+
+Questions marwan
+
+Sleep hours et stress level : quantitative or qualitative ??
+C'est normal que cart soit mieux que random forest ? Explication possible : bah la y'a une variable predominante dans le cas de cholesterol donc ca peut expliquer
+Comment bien interpreter la sortie de nos codes ? Quels sont les commentaires recherchés ?
+
+
+La nouvelle version de xg boost ne marche pas avec caret
+J'ai mis une ancienne version, je n'utilise pas caret dans cette cellule, donc ça marche
+
+Pour le k fold, je le fais sur la regression pour cholesterol, pas pour la classification mais je pourrais
