@@ -43,7 +43,6 @@ R :
 - tree/forests : M              ----PROCESS
 - neural/networks : N/M         ----TO DO
 
-
 Python
 - linear model : I              ----DONE
 - svm : I                       ----PROCESS
