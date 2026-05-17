@@ -39,9 +39,9 @@ TO DO :
 
 R : 
 - linear model : M              ----DONE
-- svm : N                       ----PROCESS
+- svm : N                       ----DONE
 - tree/forests : M              ----PROCESS
-- neural/networks : N/M         ----TO DO
+- neural/networks : N/M         ----DONE
 
 
 Python
